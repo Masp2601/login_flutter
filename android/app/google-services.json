@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206717917209",
+    "project_id": "latin-food-8635c",
+    "storage_bucket": "latin-food-8635c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206717917209:android:816b864fdeeb5a2bbd3288",
+        "android_client_info": {
+          "package_name": "com.example.latin_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206717917209-g5614j0qk3rlk9o5jjav46kcjti9rgim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latin_food_app",
+            "certificate_hash": "1844d3592b71186485beff5733ff934369dd4592"
+          }
+        },
+        {
+          "client_id": "206717917209-781tfkiinajf45gu6l0ibqg6vrn3qq9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8L4TSKbDHuu69RKipgzBeZ29r7Exa9VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206717917209-781tfkiinajf45gu6l0ibqg6vrn3qq9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
